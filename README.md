@@ -14,5 +14,5 @@
   
 # Habilidades
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,js,java)
 
