@@ -14,5 +14,5 @@
   
 # Habilidades
 
-![My Skills](https://skillicons.dev/icons?i=html,css,react,js,java)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,js,java,git,postgres,docker,maven,vscode,idea,npm,linux,autocad,ai,)
 
