@@ -7,7 +7,7 @@
 
 - 💻 Capacitándome como desarrolladora full stack junior
 
-- 🍜 Amante de la comida 
+- 🍜 Amante de la comida y los juegos 🕹️ 
 
 - 📫 Contáctame **angelesfariasvera@gmail.com**
 
